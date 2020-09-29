@@ -1,2 +1,1 @@
-# Toronto-Parking
-Time series of revenue collected using RNNs(LSTM)
+This repo contains all my posted time series forecating projects.
